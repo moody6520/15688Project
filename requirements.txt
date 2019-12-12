@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+seaborn
+folium
+geopy
+uszipcode
+sodapy
